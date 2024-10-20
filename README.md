@@ -2,7 +2,7 @@
 - 👀 I’m interested in data analytics, fintech, and AI-driven solutions 
 - 🌱 I’m currently learning Visual Studio code, Python, data visualization (Power-BI, Advance Excel), and AI tools like ChatGPT
 - 💞️ I’m looking to collaborate on data analysis projects and freelance opportunities
-- 📫 How to reach me: email at wannabhari@gmail.com
+- 📫 How to reach me: email at digitalplateform.org@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love learning new skills 
 
