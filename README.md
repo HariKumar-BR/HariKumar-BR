@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HariKumar-BR
+- 👋 Hi, I’m @HariKumar
 - 👀 I’m interested in data analytics, fintech, and AI-driven solutions 
 - 🌱 I’m currently learning Visual Studio code, Python, data visualization (Power-BI, Advance Excel), and AI tools like ChatGPT
 - 💞️ I’m looking to collaborate on data analysis projects and freelance opportunities
